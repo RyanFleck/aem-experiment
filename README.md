@@ -1,5 +1,7 @@
 # Adobe Experience Manager Experiment
 
+[![Build Status](https://travis-ci.com/RyanFleck/aem-experiment.svg?branch=master)](https://travis-ci.com/RyanFleck/aem-experiment)
+
 **Goal:** Using **AEM Project Archetype 15** create, build and serve an AEM site.
 
 **Resources:**
